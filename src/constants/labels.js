@@ -1,0 +1,15 @@
+export default {
+  pressMe: 'Press me',
+  swipe: 'Swipe me to continue',
+  vairationsText: '4 variations of a button',
+  submit: 'Submit',
+  next: 'Next',
+  backTo: 'Back To Start',
+  stateUpdated: 'Updated successfully',
+  stateClear: 'Cleared successfully',
+  clearState: 'Clear',
+  mobileDevice: 'App is riunning on ',
+  simulator: 'simulator',
+  emulator: 'emulator',
+  deivice: ' device',
+};
